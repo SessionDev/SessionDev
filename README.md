@@ -9,7 +9,7 @@
 </a>
   
 <p> 
-  <h1 align="center">────── Total visitors (2021) ──────<br>
+  <h1 align="center">────── Total visitors (2022) ──────<br>
   <img src="https://komarev.com/ghpvc/?username=sessiondev&style=square" />
     </h1>
 </p>
